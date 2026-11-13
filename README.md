@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:111827,50:4338ca,100:7c3aed&text=Nixon%20Mancilla%20Le%C3%B3n&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=60&descSize=17" width="100%" alt="Portada de Nixon Mancilla León" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:111827,50:4338ca,100:7c3aed&text=Nixon%20ML&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=60&descSize=17" width="100%" alt="Portada de Nixon Mancilla" />
 
 ### Desarrollo plataformas web, productos digitales y soluciones de software
 
@@ -11,7 +11,7 @@
 
 ## Sobre mí
 
-Soy **Nixon Mancilla León**, desarrollador de software **Full Stack**. Diseño y construyo plataformas web, APIs REST, sistemas de gestión y páginas web para negocios, desde la interfaz hasta el backend y la base de datos.
+Soy **Nixon Mancilla**, desarrollador de software **Full Stack**. Diseño y construyo plataformas web, APIs REST, sistemas de gestión y páginas web para negocios, desde la interfaz hasta el backend y la base de datos.
 
 Trabajo principalmente con **React, TypeScript, Node.js, Python, Express, PostgreSQL y MySQL**. Me enfoco en crear aplicaciones escalables, interfaces intuitivas y soluciones que respondan a necesidades reales.
 
