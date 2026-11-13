@@ -1,24 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:111827,50:4338ca,100:7c3aed&text=Nixon%20Mancilla%20Le%C3%B3n&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Development&descAlignY=60&descSize=17" width="100%" alt="Portada de Nixon Mancilla León" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:111827,50:4338ca,100:7c3aed&text=Nixon%20Mancilla%20Le%C3%B3n&fontColor=ffffff&fontSize=38&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Software%20Engineer&descAlignY=60&descSize=17" width="100%" alt="Portada de Nixon Mancilla León" />
 
-### Desarrollo soluciones web, APIs y sistemas de información
+### Desarrollo plataformas web, productos digitales y soluciones de software
 
 [![GitHub](https://img.shields.io/badge/GitHub-Nicko--rgb-181717?style=for-the-badge&logo=github)](https://github.com/Nicko-rgb)
-![Ubicación](https://img.shields.io/badge/Per%C3%BA-Desarrollo%20de%20software-7c3aed?style=for-the-badge)
+![Perú](https://img.shields.io/badge/Per%C3%BA-Full%20Stack%20Developer-7c3aed?style=for-the-badge)
 
 </div>
 
 ## Sobre mí
 
-Soy **Nixon Mancilla León**, desarrollador de software enfocado en la construcción de aplicaciones web full stack, servicios REST y soluciones de gestión de datos. Trabajo principalmente con **React, TypeScript, Node.js, Express, PostgreSQL y MySQL**.
+Soy **Nixon Mancilla León**, desarrollador de software **Full Stack**. Diseño y construyo plataformas web, APIs REST, sistemas de gestión y páginas web para negocios, desde la interfaz hasta el backend y la base de datos.
 
-Tengo experiencia desarrollando sistemas de información para procesos administrativos y del sector salud, desde el diseño de interfaces hasta la lógica de negocio, integración de APIs y consultas de bases de datos. Me interesa crear software mantenible, útil y orientado a resolver problemas reales.
+Trabajo principalmente con **React, TypeScript, Node.js, Python, Express, PostgreSQL y MySQL**. Me enfoco en crear aplicaciones escalables, interfaces intuitivas y soluciones que respondan a necesidades reales.
 
-- **Especialidades:** aplicaciones web, APIs REST, bases de datos y sistemas de gestión.
-- **Arquitectura:** organización por capas, Clean Architecture y diseño modular.
-- **Herramientas:** Git, GitHub, Linux, Docker y despliegue de aplicaciones.
-- **En aprendizaje continuo:** optimización, automatización y buenas prácticas de ingeniería de software.
+Actualmente desarrollo **Booking Sport**, mi propia plataforma B2B de reservas deportivas. También participo profesionalmente en el desarrollo de **SEMCI**, un sistema de monitoreo y control de indicadores utilizado en el sector público.
+
+- **Desarrollo web:** aplicaciones empresariales, paneles administrativos y sitios para negocios.
+- **Backend:** APIs REST, autenticación, permisos, integraciones y lógica de negocio.
+- **Datos:** modelado relacional, SQL, reportes y optimización de consultas.
+- **Ingeniería:** arquitectura modular, Clean Architecture, Git y despliegue de aplicaciones.
 
 ## Tecnologías y herramientas
 
@@ -38,54 +40,86 @@ Tengo experiencia desarrollando sistemas de información para procesos administr
 
 </div>
 
-## Experiencia y áreas de trabajo
+## Proyectos principales
 
-| Área | Experiencia |
-| --- | --- |
-| Sistemas de información en salud | Desarrollo de módulos de gestión, seguimiento, indicadores y reportes. |
-| Aplicaciones full stack | Interfaces en React, servicios con Node.js/Express y persistencia de datos. |
-| Diseño de bases de datos | Modelado relacional, SQL, consultas complejas y optimización. |
-| Integraciones | Autenticación JWT, control de acceso, exportaciones y servicios externos. |
+### 🏟️ Booking Sport — Plataforma B2B de reservas deportivas
 
-## Proyectos destacados
+**Proyecto propio · Desarrollo Full Stack**
 
-### [SYSTEM_DSI](https://github.com/Nicko-rgb/SYSTEM_DSI)
-Aplicación web desarrollada con React y publicada en Vercel.
+Desarrollo **Booking Sport**, una plataforma B2B orientada a la administración de negocios deportivos y la reserva de sus instalaciones. Permite gestionar empresas, sucursales, espacios deportivos, horarios, tarifas y reservas desde una solución centralizada.
 
-[Repositorio](https://github.com/Nicko-rgb/SYSTEM_DSI) · [Demo](https://system-dsi.vercel.app/)
+- Arquitectura **multi-tenant** para gestionar múltiples empresas.
+- Paneles administrativos y gestión de espacios, disponibilidad y precios.
+- Autenticación, permisos, pagos e integraciones de notificaciones.
+- **Integración de pasarelas de pago:** Stripe y Mercado Pago para procesar pagos de reservas deportivas y gestionar suscripciones a la plataforma SaaS.
+- Desarrollo de frontend, backend, modelos de datos y APIs.
 
-### [System Document](https://github.com/Nicko-rgb/system_document)
-Aplicación web para registrar y consultar documentos digitalizados, facilitando su acceso y organización.
+**Stack:** React · TypeScript · Node.js · Express · Sequelize · MySQL · Redis
 
-[Repositorio](https://github.com/Nicko-rgb/system_document) · [Demo](https://system-document-suiza.vercel.app/)
+> Proyecto propio en desarrollo. Parte del código se mantiene en repositorios privados.
 
-### [Detección de Objetos en Tiempo Real](https://github.com/Nicko-rgb/Detecci-n-de-Objetos)
-Proyecto de visión artificial en Python que utiliza YOLOv4 y OpenCV para detectar objetos en imágenes y video.
+### 📊 SEMCI — Sistema Estadístico de Monitoreo y Control de Indicadores
 
-[Repositorio](https://github.com/Nicko-rgb/Detecci-n-de-Objetos)
+**Experiencia profesional · Sector público**
 
-### Otros trabajos profesionales
+Trabajo en el desarrollo y mantenimiento de **SEMCI**, un sistema de información utilizado para gestionar datos, monitorear indicadores y generar reportes para la toma de decisiones en el sector público.
 
-- **Sistemas de información sanitaria:** gestión de personal, turnos, indicadores y reportes operativos.
-- **Plataformas de reservas deportivas:** gestión de empresas, instalaciones, espacios, horarios y reservas.
+- Desarrollo de módulos web y funcionalidades de gestión.
+- Implementación y mantenimiento de APIs y servicios backend.
+- Consultas, procesamiento y optimización de datos en PostgreSQL.
+- Desarrollo de tableros, indicadores y exportación de reportes.
 
-> Algunos desarrollos profesionales se encuentran en repositorios privados o entornos institucionales; se describen aquí únicamente a nivel general.
+**Stack:** React · TypeScript · Node.js · Express · Sequelize · PostgreSQL
+
+> Experiencia profesional descrita a nivel general, sin exponer información institucional ni código privado.
+
+## Otros proyectos destacados
+
+### 🎯 Detección de objetos en tiempo real
+
+Proyecto de visión artificial desarrollado con **Python, OpenCV y YOLOv4** para identificar objetos en imágenes y video.
+
+[Ver repositorio](https://github.com/Nicko-rgb/Detecci-n-de-Objetos)
+
+### 🎬 Clon de Netflix
+
+Proyecto de desarrollo frontend inspirado en la interfaz de Netflix, enfocado en la construcción de componentes visuales, navegación y diseño adaptable a distintos dispositivos.
+
+### ⚙️ Scripts de automatización
+
+Desarrollo scripts para automatizar tareas repetitivas, procesar información y facilitar flujos de trabajo técnicos.
+
+### 🌐 Páginas web para negocios
+
+Diseño y desarrollo sitios web para negocios, priorizando una presentación profesional, diseño responsive, rendimiento y facilidad de uso.
+
+## Otros repositorios
+
+- **[SYSTEM_DSI](https://github.com/Nicko-rgb/SYSTEM_DSI):** aplicación web desarrollada con React. [Demo](https://system-dsi.vercel.app/).
+- **[System Document](https://github.com/Nicko-rgb/system_document):** sistema de organización y consulta de documentos digitalizados. [Demo](https://system-document-suiza.vercel.app/).
 
 ## Actividad en GitHub
 
 <div align="center">
+<img
+    src="https://github-stats-extended.vercel.app/api?username=Nicko-rgb&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="Estadísticas de GitHub"
+    height="180"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api?username=Nicko-rgb&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas de GitHub" />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Nicko-rgb&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Lenguajes más utilizados"
+    height="180"
+  />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicko-rgb&layout=compact&theme=tokyonight&hide_border=true" alt="Lenguajes más utilizados" />
-
-<img src="https://streak-stats.demolab.com?user=Nicko-rgb&theme=tokyonight&hide_border=true" alt="Actividad de contribuciones" />
+<img src="https://streak-stats.demolab.com?user=Nicko-rgb&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
 
 </div>
 
 ## Contacto
 
-Puedes conocer mis proyectos y seguir mi trabajo en [GitHub](https://github.com/Nicko-rgb). Estoy interesado en colaborar en soluciones web, sistemas de información y herramientas que generen impacto real.
+Puedes explorar mis proyectos en **[GitHub](https://github.com/Nicko-rgb)**. Me interesa colaborar en el desarrollo de plataformas web, productos digitales y soluciones de software para empresas y negocios.
 
 <div align="center">
 
